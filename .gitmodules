@@ -1,3 +1,6 @@
 [submodule "algorithm-java"]
 	path = algorithm-java
 	url = https://github.com/techlandspace/algorithm-java.git
+[submodule "algorithm-go"]
+	path = algorithm-go
+	url = https://github.com/techlandspace/algorithm-go.git
