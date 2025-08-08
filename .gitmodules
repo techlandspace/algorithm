@@ -1,0 +1,3 @@
+[submodule "algorithm-java"]
+	path = algorithm-java
+	url = https://github.com/techlandspace/algorithm-java.git
