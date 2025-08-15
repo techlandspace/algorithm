@@ -4,3 +4,6 @@
 [submodule "algorithm-go"]
 	path = algorithm-go
 	url = https://github.com/techlandspace/algorithm-go.git
+[submodule "algorithm-python"]
+	path = algorithm-python
+	url = https://github.com/techlandspace/algorithm-python.git
